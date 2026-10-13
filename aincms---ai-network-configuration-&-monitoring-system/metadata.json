@@ -1,0 +1,6 @@
+{
+  "name": "AINCMS - AI Network Configuration & Monitoring System",
+  "description": "An AI-powered network configuration, deterministic simulation, and real-time monitoring system with interactive topologies, fault detection, and Gemini assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
